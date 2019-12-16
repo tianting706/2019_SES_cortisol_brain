@@ -1,0 +1,9 @@
+AAL_Amygala_roi
+Amygdala_left_roi
+Amygdala_right_roi
+Bi_amygdala_CM_MNI_roi
+Bi_amygdala_LB_MNI_roi
+ROI_L_Amygdala_CM_MNI_roi
+ROI_L_Amygdala_LB_MNI_roi
+ROI_R_Amygdala_CM_MNI_roi
+ROI_R_Amygdala_LB_MNI_roi
